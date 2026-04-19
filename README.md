@@ -7,9 +7,7 @@ This project shows a simple glassmorphism UI using HTML and CSS
 
 ## Preview
 
-
-
-
+![Preview](screenshot.png)
 
 # Author
 Satyam Sharma
